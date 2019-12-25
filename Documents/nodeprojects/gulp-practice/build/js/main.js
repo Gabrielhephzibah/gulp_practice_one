@@ -1,0 +1,1 @@
+function compareTriplets(r,e){for(var n=[],t=0,o=0,a=0;a<r.length;a++)r[a]>e[a]&&t++,r[a]<e[a]&&o++;return n[0]=t,n[1]=o,n}
